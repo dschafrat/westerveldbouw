@@ -1,7 +1,7 @@
 title: Westerveld Bouw
 description: "De fundering voor een goede verbouwing"
-baseurl: ""
-url: "https://dschafrat.github.io/westerveldbouw"
+baseurl: "/westerveldbouw"
+url: "https://dschafrat.github.io"
 
 collections:
   projects:
@@ -18,6 +18,8 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+
+include: ["_pages"]
 
 plugins:
   - jekyll-seo-tag
