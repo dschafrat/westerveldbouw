@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<section class="page-header">
+  <div class="container">
+    <p class="breadcrumb"><a href="/portfolio/">← Portfolio</a></p>
+    <h1>{{ page.title }}</h1>
+    {% if page.category %}<span class="project-category">{{ page.category }}</span>{% endif %}
+  </div>
+</section>
+
+<section class="project-detail">
+  <div class="container">
+    {% if page.cover_image %}
+    <div class="project-cover">
+      <img src="{{ page.cover_image | relative_url }}" alt="{{ page.title }}">
+    </div>
+    {% endif %}
+
+    <div class="project-body">
+      {{ content }}
+    </div>
+
+    {% if page.images %}
+    <div class="project-gallery">
+      {% for img in page.images %}
+      <div class="gallery-item">
+        <img src="{{ img | relative_url }}" alt="{{ page.title }}">
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    <div class="project-cta">
+      <p>Interesse in een soortgelijk project?</p>
+      <a href="/contact/" class="btn-primary">Neem contact op</a>
+    </div>
+  </div>
+</section>

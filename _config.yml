@@ -1,0 +1,29 @@
+title: Westerveld Bouw
+description: "De fundering voor een goede verbouwing"
+baseurl: ""
+url: "https://dschafrat.github.io/westerveldbouw"
+
+collections:
+  projects:
+    output: true
+    permalink: /portfolio/:name/
+
+defaults:
+  - scope:
+      path: "_pages"
+    values:
+      layout: "page"
+  - scope:
+      path: "_projects"
+      type: "projects"
+    values:
+      layout: "project"
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .gitignore
