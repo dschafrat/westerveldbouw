@@ -6,7 +6,10 @@ description: Projecten van Westerveld Bouw — uitbouwen, dakopbouwen, renovatie
 ---
 
 <div class="portfolio-grid">
-  {% for project in site.projects %}
+  {% assign featured_projects = site.projects | where: "featured", true %}
+  {% assign other_projects = site.projects | where_exp: "p", "p.featured != true" %}
+  {% assign ordered_projects = featured_projects | concat: other_projects %}
+  {% for project in ordered_projects %}
   <div class="portfolio-card">
     <div class="portfolio-card-image">
       {% if project.cover_image %}
@@ -17,7 +20,7 @@ description: Projecten van Westerveld Bouw — uitbouwen, dakopbouwen, renovatie
       <p class="category">{{ project.category }}</p>
       <h3>{{ project.title }}</h3>
       <p>{{ project.description | default: project.excerpt | strip_html | truncate: 120 }}</p>
-      <a href="{{ project.url }}" class="portfolio-card-link">Bekijk project →</a>
+      <a href="{{ project.url | relative_url }}" class="portfolio-card-link">Bekijk project →</a>
     </div>
   </div>
   {% endfor %}

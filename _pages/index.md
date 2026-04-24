@@ -9,7 +9,7 @@ permalink: /
   <div class="container">
     <div class="hero-content">
       <h1>De fundering voor een goede verbouwing</h1>
-      <p>Westerveld Bouw realiseert uitbouwen, dakopbouwen en renovaties in Gooi en Eemland. Vakmanschap dat zichtbaar is in het eindresultaat.</p>
+      <p>Gespecialiseerd in verbouw/uitbouw/aanpassingen en totaalonderhoud van woningen.</p>
       <div class="hero-cta">
         <a href="{{ '/portfolio/' | relative_url }}" class="btn-primary">Bekijk ons werk</a>
         <a href="{{ '/contact/' | relative_url }}" class="btn-secondary">Neem contact op</a>

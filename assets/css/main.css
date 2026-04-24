@@ -72,7 +72,7 @@ a:hover { color: var(--orange); }
   height: 70px;
 }
 
-.logo img { height: 46px; width: auto; }
+.logo img { height: 65px; width: auto; }
 
 .nav-links {
   display: flex;
