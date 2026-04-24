@@ -34,5 +34,5 @@ Heeft u een bouwvraag die hier niet tussenstaat? Neem contact op — we kijken g
 ---
 
 <div style="text-align:center; margin-top:2rem;">
-  <a href="/contact/" class="btn-primary">Vraag een adviesgesprek aan</a>
+  <a href="{{ '/contact/' | relative_url }}" class="btn-primary">Vraag een adviesgesprek aan</a>
 </div>

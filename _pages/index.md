@@ -5,13 +5,14 @@ permalink: /
 ---
 
 <section class="hero">
+  <img src="{{ '/assets/images/projects/uitbouw-cover.jpg' | relative_url }}" class="hero-bg" alt="">
   <div class="container">
     <div class="hero-content">
       <h1>De fundering voor een goede verbouwing</h1>
       <p>Westerveld Bouw realiseert uitbouwen, dakopbouwen en renovaties in Gooi en Eemland. Vakmanschap dat zichtbaar is in het eindresultaat.</p>
       <div class="hero-cta">
-        <a href="/portfolio/" class="btn-primary">Bekijk ons werk</a>
-        <a href="/contact/" class="btn-secondary">Neem contact op</a>
+        <a href="{{ '/portfolio/' | relative_url }}" class="btn-primary">Bekijk ons werk</a>
+        <a href="{{ '/contact/' | relative_url }}" class="btn-secondary">Neem contact op</a>
       </div>
     </div>
   </div>
@@ -46,7 +47,7 @@ permalink: /
       </div>
     </div>
     <div style="text-align:center; margin-top:2.5rem;">
-      <a href="/diensten/" class="btn-primary">Alle diensten</a>
+      <a href="{{ '/diensten/' | relative_url }}" class="btn-primary">Alle diensten</a>
     </div>
   </div>
 </section>
@@ -70,13 +71,13 @@ permalink: /
           <p class="category">{{ project.category }}</p>
           <h3>{{ project.title }}</h3>
           <p>{{ project.excerpt | strip_html | truncate: 100 }}</p>
-          <a href="{{ project.url }}" class="portfolio-card-link">Bekijk project →</a>
+          <a href="{{ project.url | relative_url }}" class="portfolio-card-link">Bekijk project →</a>
         </div>
       </div>
       {% endfor %}
     </div>
     <div style="text-align:center; margin-top:2.5rem;">
-      <a href="/portfolio/" class="btn-primary">Alle projecten</a>
+      <a href="{{ '/portfolio/' | relative_url }}" class="btn-primary">Alle projecten</a>
     </div>
   </div>
 </section>
@@ -85,6 +86,6 @@ permalink: /
   <div class="container">
     <h2>Klaar om uw woning te transformeren?</h2>
     <p>Vertel ons over uw project en we nemen snel contact met u op.</p>
-    <a href="/contact/" class="btn-primary">Gratis adviesgesprek</a>
+    <a href="{{ '/contact/' | relative_url }}" class="btn-primary">Gratis adviesgesprek</a>
   </div>
 </section>
