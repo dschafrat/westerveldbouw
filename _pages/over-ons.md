@@ -2,29 +2,31 @@
 layout: page
 title: Over ons
 permalink: /over-ons/
-description: Westerveld Bouw — vakmanschap in Gooi en Eemland sinds 2012.
+description: Westerveld Bouw — betrouwbare bouwpartner in Gooi en Eemland sinds 2012.
 ---
 
-## Westerveld Bouw
+Sinds 2012 is Westerveld Bouw dé betrouwbare bouwpartner in de regio Gooi en Eemland. Onder leiding van Robbert Westerveld is het bedrijf uitgegroeid tot een ervaren totaalbouwer die staat voor kwaliteit, vakmanschap en duidelijke communicatie. Geen project is ons te groot: wij zetten uw wensen om in een duurzaam en hoogwaardig eindresultaat.
 
-Westerveld Bouw is opgericht in 2012 door Robbert Westerveld. Vanuit Gooi en Eemland realiseren wij uitbouwen, dakopbouwen, renovaties en andere bouwprojecten voor particulieren in de regio.
+Of het nu gaat om een complete renovatie, een uitbouw, een dakkapel of de afbouw van uw nieuwbouwwoning — Westerveld Bouw begeleidt uw project van begin tot eind. Eén aanspreekpunt, korte lijnen en een zorgeloze uitvoering.
 
-Onze focus ligt altijd op het eindresultaat: een woning die aansluit bij uw wensen, vakkundig uitgevoerd en op tijd opgeleverd.
+Dankzij ons vaste team van ervaren timmermannen, aangevuld met gespecialiseerde loodgieters, tegelzetters, stukadoors, schilders, interieurbouwers en rietdekkers, garanderen wij een strakke planning en een perfect afgewerkt resultaat.
+
+**Westerveld Bouw: bouwen met vertrouwen, kwaliteit en aandacht voor detail.**
 
 ## Onze werkwijze
 
-**Adviesgesprek**
-We beginnen met een gesprek om uw wensen en mogelijkheden in kaart te brengen. Wat wilt u bereiken? Wat past bij uw woning en budget?
+Bij Westerveld Bouw draait alles om vertrouwen, vakmanschap en duidelijke afspraken. Wij vinden het belangrijk dat u op ons kunt rekenen. Afspraak is afspraak, en we zorgen ervoor dat het bouwproces soepel verloopt en vaart houdt. Met een hands-on mentaliteit zetten wij samen de schouders eronder om binnen de afgesproken kaders iets moois te realiseren.
 
-**Voorbereiding & vergunningen**
-We regelen de benodigde vergunningen en stemmen de planning af. U hoeft zich nergens zorgen over te maken.
+U werkt bij ons met een vast en betrokken team van vakmensen dat perfect op elkaar is ingespeeld. Dat zorgt voor korte lijnen, een prettige samenwerking en een strak eindresultaat. Vooraf maken we heldere afspraken over tarieven en zijn we volledig transparant over materiaalkeuzes en kosten. Zo weet u precies waar u aan toe bent, zonder verrassingen achteraf.
 
-**Uitvoering**
-Onze eigen mensen voeren het werk uit. We houden u op de hoogte van de voortgang en lossen knelpunten snel op.
+**Westerveld Bouw: persoonlijk betrokken, professioneel uitgevoerd.**
 
-**Oplevering**
-Het project is klaar als u tevreden bent. We lopen samen door het eindresultaat en zorgen dat alles naar wens is afgerond.
+## Specialisatie: afbouw nieuwbouwwoningen
 
-## Actief in Gooi en Eemland
+Westerveld Bouw is specialist in de afbouw van nieuwbouw en al jarenlang gevestigd en actief in de nieuwbouwwijk Zuidpolder in Eemnes. In de afgelopen tien jaar hebben wij hier vele woningen succesvol en naar volle tevredenheid van onze opdrachtgevers afgebouwd.
 
-We zijn actief in de regio Gooi en Eemland, waaronder Eemnes, Laren, Blaricum, Huizen en omgeving. Heeft u een project buiten dit gebied? Neem contact op, dan kijken we samen naar de mogelijkheden.
+Met één vast aanspreekpunt nemen wij u alle zorgen uit handen — van badkamerrealisatie tot de volledige afbouw van uw woning.
+
+<div style="margin-top:2.5rem; text-align:center;">
+  <a href="{{ '/contact/' | relative_url }}" class="btn-primary">Neem contact op</a>
+</div>

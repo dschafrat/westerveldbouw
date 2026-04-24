@@ -1,12 +1,15 @@
 ---
-title: Schuur naar kantoor / guesthouse
+title: Schuur naar kantoor & guesthouse
 category: Schuur naar kantoor
-description: Bijgebouw volledig verbouwd tot functioneel thuiskantoor en guesthouse.
+description: Bijgebouw volledig getransformeerd tot functioneel thuiskantoor en guesthouse.
 cover_image: /assets/images/projects/schuur-kantoor-cover.jpg
 images:
   - /assets/images/projects/schuur-kantoor-cover.jpg
+  - /assets/images/projects/schuur-kantoor-2.jpg
+  - /assets/images/projects/schuur-kantoor-3.jpg
+  - /assets/images/projects/schuur-kantoor-4.jpg
 ---
 
-Een bestaande schuur omgetoverd tot een volwaardige werk- en logeerkamer. Het bijgebouw is volledig gestript, geïsoleerd en afgebouwd met elektra, vloerverwarming en een pantry.
+Een bestaande schuur volledig omgebouwd tot een combinatie van thuiskantoor en guesthouse. Het bijgebouw is gestript, opnieuw geïsoleerd en afgebouwd met elektra, vloerverwarming, een pantry en volledig afgewerkte wanden en plafonds.
 
-Een slimme investering die het gebruik van de achtertuin compleet verandert.
+Een investering die de achtertuin compleet verandert — en het bijgebouw het hele jaar bruikbaar maakt.

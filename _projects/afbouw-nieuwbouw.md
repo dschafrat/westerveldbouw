@@ -1,12 +1,22 @@
 ---
-title: Afbouw nieuwbouw woning
+title: Afbouw nieuwbouw woning Eemnes
 category: Nieuwbouw afbouw
-description: Complete afbouw van een nieuwbouwwoning in Eemnes, inclusief installaties en interieurbouw.
+description: Complete afbouw van een nieuwbouwwoning in Zuidpolder Eemnes — van ruwbouw naar sleutelklare woning.
 cover_image: /assets/images/projects/afbouw-nieuwbouw-cover.jpg
 images:
   - /assets/images/projects/afbouw-nieuwbouw-cover.jpg
+  - /assets/images/projects/afbouw-2.jpg
+  - /assets/images/projects/afbouw-3.jpg
 ---
 
-Volledige afbouw van een nieuwbouwwoning in Eemnes (Zuidpolder). Van ruwbouw naar complete woning: binnenwanden, plafonds, vloeren, elektra, sanitair en afwerking.
+Westerveld Bouw is al jarenlang actief in de nieuwbouwwijk Zuidpolder in Eemnes. Dit project betrof de volledige afbouw van een nieuwbouwwoning: van ruwbouw naar een compleet afgewerkte, sleutelklare woning.
 
-Een complex project waarbij Westerveld Bouw als hoofdaannemer alle disciplines coördineerde.
+Wij verzorgden onder andere:
+- Stuc- en schilderwerk
+- Badkamerrealisatie
+- Keukenvoorbereiding
+- Interieurbouw op maat
+- Lichtplan en elektra
+- Vloeren
+
+Met één vast aanspreekpunt namen wij de opdrachtgever alle zorgen uit handen — van planning tot oplevering.

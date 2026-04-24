@@ -1,12 +1,15 @@
 ---
 title: Dakopbouw Huizen
 category: Dakopbouw
-description: Extra verdieping gerealiseerd door dakopbouw op een rijwoning in Huizen.
+description: Volledige extra verdieping gerealiseerd door dakopbouw op een woning in Huizen.
 cover_image: /assets/images/projects/dakopbouw-cover.jpg
 images:
   - /assets/images/projects/dakopbouw-cover.jpg
+  - /assets/images/projects/dakopbouw-2.jpg
+  - /assets/images/projects/dakopbouw-3.jpg
+  - /assets/images/projects/dakopbouw-4.jpg
 ---
 
-Door de dakopbouw van deze woning in Huizen is een volledige extra verdieping toegevoegd. Het project omvatte sloopwerk van het bestaande dak, constructieve aanpassingen en een complete afbouw inclusief dakramen en isolatie.
+Voor een woning in Huizen verzorgde Westerveld Bouw een complete dakopbouw. Het bestaande dak werd gesloopt en vervangen door een extra volwaardige verdieping — inclusief constructieve aanpassingen, nieuwe dakramen, isolatie en afbouw.
 
-Het resultaat: meer leefruimte zonder de tuin op te offeren.
+Het resultaat: aanzienlijk meer woonruimte, zonder de tuin op te offeren. De vergunning werd volledig door Westerveld Bouw aangevraagd en begeleid.
