@@ -9,7 +9,7 @@ description: Neem contact op met Westerveld Bouw voor een vrijblijvend adviesges
   <div class="contact-form">
     <h2>Stuur een bericht</h2>
     <form method="POST" action="https://formsubmit.co/robbertwesterveld@gmail.com">
-      <input type="hidden" name="_next" value="https://dschafrat.github.io/westerveldbouw/bedankt/">
+      <input type="hidden" name="_next" value="https://www.westerveldbouw.nl/bedankt/">
       <input type="hidden" name="_subject" value="Nieuw contactbericht via Westerveld Bouw">
       <input type="hidden" name="_captcha" value="false">
       <div class="form-group">
